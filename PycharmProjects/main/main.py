@@ -1,6 +1,8 @@
 from tkinter import *
 
 
+#This is me testing/doing tutorials in python to learn how to use the main functionality of the language
+#Calc.py is the point of sale terminal 
 
 def doNothing():
     f = open('myfile.txt', 'w')
